@@ -1,3 +1,9 @@
+
+# Scan Qr to Get Session Id here 
+<a href="https://subxscanqr-0717cb77daed.herokuapp.com/">Tap me</a>
+
+# Deploy on Heroku / Replit
+
 ## Deploy on any shell including termux
 
 - Fork repo
@@ -17,7 +23,7 @@
 
 ---
 
-# Using X-asena
+# Using SubZero
 
 ## Creating a plugin
 
@@ -83,25 +89,12 @@ message.sendMessage(jid,
 
 #### Official Image
 
-[![Docker Repository on Quay](https://quay.io/repository/xelectra/xasena/status "Docker Repository on Quay")](https://quay.io/repository/xelectra/xasena)
 
-### THANKS TO
-
-- [Adhiraj Singh](https://github.com/adiwajshing)
-- [Yusuf Usta](https://github.com/yusufusta)
-- [Neeraj-x0](https://github.com/Neeraj-x0)
-- [Adityan](https://github.com/A-d-i-t-h-y-a-n)
-- [SamPandey001](https://github.com/SamPandey001)
-- [TSH3PHANG](https://github.com/TSH3PHANG)
-- [Diegoson](https://github.com/Diegoson)
-- [Viper-x0](https://github.com/Viper-X0)
-- [Lord-Official](https://github.com/Lord-official)
-- [Ajmal-Achu](https://github.com/Ajmal-Achu)
 
 ```
 MIT License
 
-Copyright (c) 2023 X-Electra
+Copyright (c) 2024 SubZero Md
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
