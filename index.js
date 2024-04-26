@@ -46,7 +46,7 @@ const connect = async () => {
   console.log("⬇  Installing Plugins...");
   await readAndRequireFiles(__dirname + "/assets/database/");
   await readAndRequireFiles(__dirname + "/assets/plugins/");
-  console.log("✅ Plugins Installed!");
+  console.log("Subzero ✅ Plugins Installed!");
 
   const Xasena = async () => {
     const { state, saveCreds } = await useMultiFileAuthState(
@@ -73,7 +73,7 @@ const connect = async () => {
       }
 
       if (connection === "open") {
-        console.log("✅ Login Successful!");
+        console.log("Whatsapp✅ Login Successful!");
         const packageVersion = require("./package.json").version;
         const totalPlugins = plugins.commands.length;
         const workType = config.WORK_TYPE;
