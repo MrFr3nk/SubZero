@@ -26,7 +26,7 @@
 
 # Contact Mr Fr3nk
 
-<a href ="https://wa.me/263719647303>Whatsapp</a>
+<a href ="https://wa.me/263719647303">Whatsapp</a>
 
 # Using SubZero Plugins
 
