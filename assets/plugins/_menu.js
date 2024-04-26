@@ -29,15 +29,15 @@ Description: ${i.desc}\`\`\``);
       let [date, time] = new Date()
         .toLocaleString("en-IN", { timeZone: "Asia/Kolkata" })
         .split(",");
-      let menu = `╭━━━━━ᆫ ${BOT_NAME} ᄀ━━━
-┃ ⎆  *OWNER*:  ${OWNER_NAME}
-┃ ⎆  *PREFIX*: ${prefix}
-┃ ⎆  *HOST NAME*: ${hostname().split("-")[0]}
-┃ ⎆  *DATE*: ${date}
-┃ ⎆  *TIME*: ${time}
-┃ ⎆  *COMMANDS*: ${plugins.commands.length} 
-┃ ⎆  *UPTIME*: ${clockString(process.uptime())} 
-╰━━━━━━━━━━━━━━━\n`;
+      let menu = `╭▰▱▰ᆫ ${BOT_NAME} ᄀ▰▱▰❄️
+┃ ✧  *🅑🅞🅣 🅞🅦🅝🅔🅡*⚡:  ${OWNER_NAME}
+┃ ✦  *🅟🅡🅔🅕🅘🅧*⚡: ${prefix}
+┃ ✧  *🅗🅞🅢🅣🅝🅐🅜🅔*💻: ${hostname().split("-")[0]}
+┃ ✦  *🅣🅞🅓🅐🅨*🌟: ${date}
+┃ ✧  *🅣🅘🅜🅔*📡: ${time}
+┃ ✦  *🅒🅞🅜🅜🅐🅝🅓🅢*📑: ${plugins.commands.length} 
+┃ ⎆  *🅤🅟🅣🅘🅜🅔*🚀: ${clockString(process.uptime())} 
+╰━━━━━━━━━━━━━━━🇿🇼🇿🇼\n`;
       let cmnd = [];
       let cmd;
       let category = [];
