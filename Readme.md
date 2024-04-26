@@ -3,6 +3,7 @@
 <a href="https://subxscanqr-0717cb77daed.herokuapp.com/">Tap me</a>
 
 # Deploy on Heroku / Replit
+<a href="https://dashboard.heroku.com/new-app"> Deploy on heroku</a>
 
 ## Deploy on any shell including termux
 
@@ -23,7 +24,9 @@
 
 ---
 
-# Using SubZero
+# Contact Mr Fr3nk
+<a href ="wa.me/263719647303>
+# Using SubZero Plugins
 
 ## Creating a plugin
 
